@@ -6,4 +6,4 @@ This repository contains sample data and R scripts for analyzing crayfish restin
 - **src** contains R scripts for analyzing and plotting Vm data
 - **doc** contains .tex files and supporting graphics for lab handouts; pdfs of useful references
 
-We use iWorx (Dover, NH) LabScirbe3 and iWorx data recorders for data acquisition. Data are analyzed in R or Igor Pro (Wavemetrics, Lake Oswego, OR).
+We use [iWorx](https://www.iworx.com/products/animal-physiology/ahk-ta-combination-animalhuman-physiology-teaching-kit/) (Dover, NH) LabScirbe3 and iWorx data recorders for data acquisition. Data are analyzed in R with RStudio or [Igor Pro](https://www.iworx.com/products/animal-physiology/ahk-ta-combination-animalhuman-physiology-teaching-kit/) (Wavemetrics, Lake Oswego, OR).
