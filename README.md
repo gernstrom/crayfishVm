@@ -1,6 +1,6 @@
 ## Crayfish Vm repository README
 
-This repository contains sample data and R scripts for analyzing crayfish resting Vm vs. extracelluar saline. This is a teaching exercise adapted by Glen Ernstrom (Middlebury College) from [Baierlein et al. 2011](https://www.jove.com/video/2322/membrane-potentials-synaptic-responses-neuronal-circuitry)
+This repository contains sample data and R scripts for analyzing crayfish resting Vm vs. extracelluar saline. This is a teaching exercise adapted by [Glen Ernstrom](http://www.middlebury.edu/academics/bio/faculty/node/604164)(Middlebury College) from [Baierlein et al. 2011](https://www.jove.com/video/2322/membrane-potentials-synaptic-responses-neuronal-circuitry).
 
 - **data** contains .csv files pooled from BIOL 370 S19 
 - **src** contains R scripts for analyzing and plotting Vm data
