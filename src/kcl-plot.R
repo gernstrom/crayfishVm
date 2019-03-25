@@ -14,7 +14,7 @@ kgcls
 kcl <- melt(kcls, na.rm = TRUE) # [k] [c]ls [l]ong form
 names(kcl) <- c("conc", "Vm")
 
-levels(kglucs_melted) <- c(levels(kglucs_melted), "5.4", "40", "100")  # coerce the levels order
+levels(kcl) <- c(levels(kcl), "5.4", "40", "100")  # coerce the levels order
 
 # to make a ggplot we need to specifiy the data.frame (df), the mapping aesthetic (aes) (x and y values), what kind of plot geometry we want, the axis labels, and tweaks to the fonts, ticks, axes, and plot background to make the plot look clear and legible.
 
